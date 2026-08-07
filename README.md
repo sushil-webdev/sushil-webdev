@@ -133,3 +133,7 @@ Become a Full Stack Developer and build impactful web applications.
 
 [![Sushil's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sushil-webdev&theme=tokyo-night)](https://github.com/sushil-webdev)
 
+
+## 🐍 Contribution Snake
+
+![Snake animation](https://raw.githubusercontent.com/sushil-webdev/sushil-webdev/output/github-contribution-grid-snake.svg)
