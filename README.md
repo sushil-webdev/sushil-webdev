@@ -115,3 +115,21 @@ Become a Full Stack Developer and build impactful web applications.
 ## 👀 Profile Views
 
 ![Profile Views](https://komarev.com/ghpvc/?username=sushil-webdev&color=blue&style=for-the-badge)
+
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=sushil-webdev&theme=algolia&row=1&column=6"/>
+
+</p>
+
+---
+
+## 📈 Contribution Graph
+
+[![Sushil's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sushil-webdev&theme=tokyo-night)](https://github.com/sushil-webdev)
+
