@@ -84,11 +84,15 @@ Become a Full Stack Developer and build impactful web applications.
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sushil-webdev&show_icons=true&theme=tokyonight&cache_seconds=86400)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sushil-webdev&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+</p>
 
 ## 💻 Most Used Languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sushil-webdev&layout=compact&theme=tokyonight&cache_seconds=86400)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sushil-webdev&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p>
 
 ## 🔥 GitHub Streak
 
@@ -100,8 +104,9 @@ Become a Full Stack Developer and build impactful web applications.
 
 ## 🏆 GitHub Trophies
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=sushil-webdev&theme=tokyonight&no-frame=true&margin-w=10)
-
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=sushil-webdev&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10" alt="GitHub Trophies" />
+</p>
 ---
 
 ## 📈 Contribution Graph
