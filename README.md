@@ -84,48 +84,23 @@ Become a Full Stack Developer and build impactful web applications.
 
 ## 📊 GitHub Stats
 
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=sushil-webdev&show_icons=true&theme=tokyonight" />
-
-</p>
-
----
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sushil-webdev&show_icons=true&theme=tokyonight&cache_seconds=86400)
 
 ## 💻 Most Used Languages
 
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sushil-webdev&layout=compact&theme=tokyonight" />
-
-</p>
-
----
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sushil-webdev&layout=compact&theme=tokyonight&cache_seconds=86400)
 
 ## 🔥 GitHub Streak
 
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=sushil-webdev&theme=tokyonight" />
-
-</p>
-
----
+![GitHub Streak](https://streak-stats.demolab.com?user=sushil-webdev&theme=tokyonight&cache_seconds=86400)
 
 ## 👀 Profile Views
 
-![Profile Views](https://komarev.com/ghpvc/?username=sushil-webdev&color=blue&style=for-the-badge)
-
-
----
+![Profile Views](https://komarev.com/ghpvc/?username=sushil-webdev&label=Profile%20Views&color=0e75b6&style=flat)
 
 ## 🏆 GitHub Trophies
 
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=sushil-webdev&theme=algolia&row=1&column=6"/>
-
-</p>
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=sushil-webdev&theme=tokyonight&no-frame=true&margin-w=10)
 
 ---
 
